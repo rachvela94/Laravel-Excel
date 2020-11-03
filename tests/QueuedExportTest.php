@@ -1,7 +1,6 @@
 <?php
 
 namespace Maatwebsite\Excel\Tests;
-
 use Illuminate\Queue\Events\JobProcessing;
 use Illuminate\Support\Facades\Queue;
 use Maatwebsite\Excel\Excel;
