@@ -19,10 +19,6 @@
       "email": "patrick@maatwebsite.nl"
     }
   ],
-  "repositories": [{
-  "type": "vcs",
-  "url": "https://github.com/rachvela94/phpspreadsheet"
-  }],
   "require": {
     "ext-json": "*",
     "php": "^7.0",
